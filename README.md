@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LogbonBell
 - 👀 I’m interested in programming, web dev, app dev and anything tech
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’ve currently learnt HTML and CSS, i am now working on Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on this gmail "Oluwabell@gmail.com"
 
